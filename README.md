@@ -41,7 +41,7 @@ int in_binary(int n) {
 
 
 void solve() {
-	
+	// Start from here
 }
 
 int main() {
